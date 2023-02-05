@@ -1,0 +1,19 @@
+{
+  "name": "fit4me",
+  "version": "1.0.0",
+  "description": "open project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doumas/Fit4me.git"
+  },
+  "author": "Dinko Djurkovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doumas/Fit4me/issues"
+  },
+  "homepage": "https://github.com/Doumas/Fit4me#readme"
+}
